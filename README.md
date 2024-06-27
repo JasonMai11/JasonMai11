@@ -4,7 +4,7 @@
 </div>  
   
 
-# <div align="center"> Mobile / Web Developer </div>  
+# <div align="center"> Software Developer </div>  
 
 ### <div align="center">https://jasonmai11.github.io/React-Portfolio/</div><br />
 
